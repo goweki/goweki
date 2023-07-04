@@ -18,6 +18,8 @@ I am a multi-talented Solutions Architect with experience in product design and 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<br>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
