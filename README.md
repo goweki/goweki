@@ -1,6 +1,6 @@
 ### 👋 &nbsp;&nbsp;Hi, My name is Antonio G. Oweki
 
-I am a multi-talented Solutions Architect with experience in product design and fullstack development.
+I am a multi-talented Solutions Architect with experience in product design and fullstack software development.
 
 <br>
 
